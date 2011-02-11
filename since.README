@@ -1,0 +1,52 @@
+since
+------------------------------------------
+
+Tail work-alike that saves and uses state information
+
+Program remembers how much of a file you have viewed and displays only
+what's new when you next view that file. Ideal for viewing log files.
+It'll only show what's new in the file since the last time it was run.
+
+Runtime requirements:
+  cygwin
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://welz.org.za/projects/since
+  http://packages.debian.org/since
+
+Canonical download:
+  See above
+
+Upstream contact:
+  Maintainer: Augusto van de Wiel <faw@debian.org>
+  Bugs: Augusto van de Wiel <faw@debian.org>
+
+License:
+  GPL
+
+------------------------------------
+
+Build instructions:
+  unpack since-*-src.tar.bz2
+    if you use setup to install this src package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./since*.sh all
+
+-------------------------------------------
+
+Files included in the binary distro:
+  See content of *.tar.gz
+
+------------------
+
+Port Notes:
+
+----- version 0.5-1 -----
+- Initial release 2008-02-26 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later

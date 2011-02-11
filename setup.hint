@@ -1,0 +1,6 @@
+sdesc: "Tail work-alike that saves and uses state information"
+ldesc: "Program remembers how much of a file you have viewed and displays only
+what's new when you next view that file. Ideal for viewing log files.
+It'll only show what's new in the file since the last time it was run."
+category: Utils
+requires: cygwin
