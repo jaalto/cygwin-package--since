@@ -1,12 +1,11 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: package N.N
-Subject: New package: since 0.5-1 -- tail(1) work-alike that saves and uses state information
+Subject: Updated: since 1.1-1 -- tail(1) work-alike that saves and uses state information
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://welz.org.za/projects/since
-License : GPL
+Homepage: http://freshmeat.net/projects/since
+License : GPL-3+
 
 Program remembers how much of a file you have viewed and displays only
 what's new when you next view that file. Ideal for viewing log files
@@ -16,7 +15,7 @@ run).
 CHANGES SINCE LAST RELEASE
 ==========================
 
-None.
+Not available. This project does not maintain Change Logs.
 
 INSTALL OR UPGRADE NOTES
 ========================
